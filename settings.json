@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "SurvivalChameleon.aternos.me",
+    "ip": "SurvivalChameleon.aternos.me:43084",
     "port": 43084,
     "version": "",
     "try-creative": false
